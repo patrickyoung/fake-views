@@ -1,0 +1,14 @@
+---
+start: 0
+iterations: 10
+seed: "SAMPLE_DATA"
+language: it
+schema:
+  id: uuid
+  username: person.username
+  fname: person.name
+  lname: person.surname
+  title: person.title
+  gender: person.gender
+  email: person.email
+  age: person.age
